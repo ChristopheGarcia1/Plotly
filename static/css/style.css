@@ -1,0 +1,28 @@
+body {
+          color: #080808;
+          background-image: url("beefy.gif") ;
+          font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          font-size: calc();
+        }
+
+        .jumbotron {
+          
+          background-size: 25% 100%;
+          text-align: center;
+          color:burlywood;
+          font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          
+        }
+        h1 {
+          text-align: center; 
+        }
+        h1 span { 
+          background-color: rgb(128, 0, 0); 
+        }
+        p {
+          text-align: center; 
+          color:burlywood
+        }
+        p span { 
+          background-color: rgb(128, 0, 0); 
+        }
